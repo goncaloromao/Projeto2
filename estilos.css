@@ -1,0 +1,52 @@
+body {
+    background-color: #eaf3ff;
+    font-family: Arial, sans-serif;
+    color: #172b4d;
+    margin: 30px;
+}
+header {
+    background-color: #174a9c;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+h1, h2 {
+    font-family: Georgia, serif;
+}
+h1 { color: white; }
+h2 { color: #174a9c; }
+main { max-width: 750px; margin: 25px auto; }
+.destaque {
+    background-color: #c8defa;
+    margin: 20px 10px;
+    padding: 15px;
+}
+li div {
+    background-color: white;
+    margin: 8px 0;
+    padding: 10px;
+}
+img { display: block; margin: 20px auto; }
+a { color: #174a9c; }
+
+
+/*
+REFLEXÃO FINAL
+
+1. Desafio Técnico:
+A parte mais difícil foi aplicar a classe
+.destaque ao parágrafo. Para resolver,
+verifiquei se o nome da classe estava
+igual no HTML e no CSS.
+
+2. Correção de Sintaxe:
+Um erro que pode acontecer é esquecer
+um ponto e vírgula no CSS. Para o corrigir,
+basta rever o código e colocar o ponto
+e vírgula no sítio certo.
+
+3. Autoria:
+O atributo src serve para indicar o
+ficheiro da imagem que queremos
+mostrar na página.
+*/
